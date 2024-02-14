@@ -1,2 +1,3 @@
-# big-fraction
-**Repository for storing the fractional calculator implemented in the lab **
+# Big fraction on Java
+
+*Repository for storing the fractional calculator implemented in the lab.*
